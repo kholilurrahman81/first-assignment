@@ -1,0 +1,57 @@
+.header {
+    display: flex;
+    text-align: right;
+    padding: 150px;
+}
+
+.header-detailes {}
+
+.header-title {}
+
+font-weight: 700;
+font-size: 65px;
+
+.header-description {
+    text-align: right;
+}
+
+.btn-primary {
+    background: #F15B22;
+    padding: 20px;
+}
+
+.about {
+    display: flex;
+}
+
+.about-image {}
+
+.about-content {
+    text-align: justify;
+}
+
+.about-title {}
+
+.about-description {}
+
+.heading {
+    text-align: center;
+}
+.plan-container{
+    display: flex;
+}
+.my-plan {
+    margin-top: 130px;
+}
+.contact {
+    display: flex;
+    gap: 80px;
+}
+
+.contact .section-title {
+    text-align: left;
+}
+.contact input{
+    margin-bottom: 20px;
+    padding: 30px;
+}
